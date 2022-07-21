@@ -1,0 +1,17 @@
+C:\Users\enzog\source\repos\RoboIME_store\bin\Release\RoboStoreDB.mdf
+C:\Users\enzog\source\repos\RoboIME_store\bin\Release\RoboStoreDB_log.ldf
+C:\Users\enzog\source\repos\RoboIME_store\bin\Release\RoboIME_store.exe.config
+C:\Users\enzog\source\repos\RoboIME_store\bin\Release\RoboIME_store.exe
+C:\Users\enzog\source\repos\RoboIME_store\bin\Release\RoboIME_store.pdb
+C:\Users\enzog\source\repos\RoboIME_store\obj\Release\RoboIME_store.csproj.AssemblyReference.cache
+C:\Users\enzog\source\repos\RoboIME_store\obj\Release\RoboIME_store.Billing.resources
+C:\Users\enzog\source\repos\RoboIME_store\obj\Release\RoboIME_store.Compras.resources
+C:\Users\enzog\source\repos\RoboIME_store\obj\Release\RoboIME_store.Data.resources
+C:\Users\enzog\source\repos\RoboIME_store\obj\Release\RoboIME_store.AdminLogin.resources
+C:\Users\enzog\source\repos\RoboIME_store\obj\Release\RoboIME_store.Login.resources
+C:\Users\enzog\source\repos\RoboIME_store\obj\Release\RoboIME_store.Membros.resources
+C:\Users\enzog\source\repos\RoboIME_store\obj\Release\RoboIME_store.Properties.Resources.resources
+C:\Users\enzog\source\repos\RoboIME_store\obj\Release\RoboIME_store.csproj.GenerateResource.cache
+C:\Users\enzog\source\repos\RoboIME_store\obj\Release\RoboIME_store.csproj.CoreCompileInputs.cache
+C:\Users\enzog\source\repos\RoboIME_store\obj\Release\RoboIME_store.exe
+C:\Users\enzog\source\repos\RoboIME_store\obj\Release\RoboIME_store.pdb
