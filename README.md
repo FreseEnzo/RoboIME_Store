@@ -1,8 +1,6 @@
 # RoboIME Store
 <h4 align="center"> 
-    :construction:  dsadasdas
-    dsadas
-    dasdasdas
+    :construction: Building description
     :construction:
 </h4>
 <p align ="center">
